@@ -71,8 +71,7 @@ while running == true {
     let question = String(readLine()!)
     
     print("\n")
-    print("Answering your question:")
-    print(question)
+    print("Answering your question: \(question)")
     
     // PROCESS
 
